@@ -4,8 +4,8 @@
 Consiste na simulação de um sinaleiro que com base na distância medida aciona algum dos LEDS. 
 Para ajudar na vizualização foi desenvolvida uma interface utilizando o Tkinter.
 
-![](../layout_app.png)
-![](../schema_circuito.png)
+![](layout_app.png)
+![](schema_circuito.png)
 
 
 ## Exemplo de uso
