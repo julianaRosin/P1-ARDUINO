@@ -10,7 +10,7 @@ Para ajudar na vizualização foi desenvolvida uma interface utilizando o Tkinte
 
 ## Exemplo de uso
 
-Transfira o código de exemplo disponível em <b>files_arduino<b> para seu Arduino. Depois é só rodar a aplicação  disponível na pasta <b>sinaleiro<b>.
+Transfira o código de exemplo disponível em **files_arduino** para seu Arduino. Depois é só rodar a aplicação  disponível na pasta **sinaleiro**.
 
 ```sh
     python3 app.py
